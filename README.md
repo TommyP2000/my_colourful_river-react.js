@@ -1,5 +1,6 @@
-# my_colourful_river-react.js
- A social media web application built using React.JS, Express.JS, Redux and Material UI and is hosted through Google Firebase.
+# My Colourful River - React.JS Social Media Web App
+
+A social media web application built using React.JS, Express.JS, Redux and Material UI and is hosted through Google Firebase.
 
 This is a work-in-progress React.JS web application that acts as a social media platform for users to make posts and share ideas with each other and to socially connect with each other. The initial idea behind this was to develop a social media platform that uses visual communication through the use of art, colours, photography, etc. In this case, the use of colour is used to show a user's personal mood, whether they are happy or sad, the post that they create will be highlighted in the colour that represents how they're currently feeling to other users. This application takes inspiration from the likes of Pinterest, Medium and Instagram, that combines the artistic and visual communication through Pinterest and the blogging structure of the online blog Medium.
 
