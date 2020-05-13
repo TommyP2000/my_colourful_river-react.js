@@ -1,0 +1,20 @@
+{
+  "name": "my-colourful-river-react",
+  "version": "1.0.0",
+  "description": "A social media platform that connects users through colour, art and other visual means of communication. It is designed for users who are looking for a platform that is expressive, imaginative and encourages communication that is more 'human'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "colours",
+    "human",
+    "interaction",
+    "communication",
+    "imaginative"
+  ],
+  "author": "Thomas Popham",
+  "license": "ISC"
+}
