@@ -16,5 +16,6 @@
     "imaginative"
   ],
   "author": "Thomas Popham",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
